@@ -1,0 +1,5 @@
+0, default.jpg, default
+1, rocket.jpg, Rocket Launcher
+2, redeemer.jpg, Redeemer
+3, shieldgun.jpg, Rocket Launcher
+4, whatever.jpg, Rocket Launcher

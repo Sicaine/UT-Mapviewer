@@ -1,0 +1,4 @@
+0, default.tga, Default
+1, hellbender.tga, Hellbender
+2, flag.tga, Flag
+3, goal.tga, Goal
